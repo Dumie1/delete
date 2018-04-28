@@ -19,6 +19,7 @@
 
 
 
+
 <h2>USEFULL LINKS - javascript </h2>
 
 <h3>What is Javascript?  </h3>
@@ -26,6 +27,9 @@
 <li>https://www.learn-js.org/ </li>
 <h3>Free code camp challenges</h3>
 <li>https://www.freecodecamp.org/map </li>
+Functions
+http://eloquentjavascript.net/03_functions.html
+
 
 
 
