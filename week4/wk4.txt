@@ -1,0 +1,12 @@
+*Video recording  Node js 15/04/18 
+https://www.youtube.com/watch?v=6ZDHHCKKyw8&feature=youtu.be 
+
+*Video recording   Git… 15/04/18
+https://www.dropbox.com/sh/de15h9wiove46r5/AAAK8FWUKjL1aeKJmyoyPCTKa?dl=0&preview=class15-git1.mov 
+
+*JavaScript homework and reading material
+https://gist.github.com/remarcmij/c5a5ae83608ab0dc2926f65098e5ae2e 
+Git homework and reading material will be ready soon. Please check Trello and provide your constructive feedback.
+
+*Continue reading here javascript 1:
+https://gist.github.com/remarcmij/83ae4711ed8c3b5839d5361b61fe1f65 
