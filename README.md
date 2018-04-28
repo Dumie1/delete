@@ -27,7 +27,7 @@
 <li>https://www.learn-js.org/ </li>
 <h3>Free code camp challenges</h3>
 <li>https://www.freecodecamp.org/map </li>
-Functions
+<h3>Functions</h3>
 http://eloquentjavascript.net/03_functions.html
 
 
