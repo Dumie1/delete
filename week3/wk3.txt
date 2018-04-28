@@ -1,0 +1,8 @@
+*Reading for the week and assignment
+https://github.com/HackYourFuture/HTML-CSS/blob/master/Week3/MAKEME.md 
+
+*Week 3 hyf html n css video recording. 
+https://www.youtube.com/watch?v=QFbD9dHBzx0 
+
+*Hi @studentsclass15 since you will start with JavaScript1 and Git this Sunday I all recommend you to read :
+https://github.com/jackdoe/platform-nine-and-three-quarters one of our teachers @jackdoe wrote this for his wife to teach her how to code. He uses a lot of analogies and metaphors to explain basic programming concepts. I think everyone should read this.
