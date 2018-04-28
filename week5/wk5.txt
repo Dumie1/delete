@@ -1,0 +1,11 @@
+*Video recording  gitbash 22/04/18
+https://www.dropbox.com/s/30ay9xot41vvvf0/class15-git2.mov?dl=0 
+
+*Video recording  Node js & javascript 22/04/18
+https://www.youtube.com/watch?v=2dl3euZjvsk&feature=youtu.be 
+
+*Dear @studentsclass15, in the repo below (folder `week2/loops`) you can find the loop examples we discussed today
+https://github.com/remarcmij/JavaScript1_examples 
+
+*Homework and readings for this week: 
+https://gist.github.com/remarcmij/fe6f1d15dddadad010390a17178e9106 
