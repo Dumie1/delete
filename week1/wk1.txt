@@ -1,0 +1,6 @@
+*1-Hello @studentsclass15, This Sunday 25/03/2018, we will have our first class. Make sure that you have installed GitBash [1] on your laptops with Windows OS. If you are using Linux or MAC OS then, you don’t need to install GitBash.
+*[1] https://github.com/HackYourFuture/Git/blob/master/Lecture-1.md 
+https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md 
+
+*Briefly we covered the following today:     25/03/2018
+https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md
