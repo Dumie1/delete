@@ -1,13 +1,14 @@
 * Material that was covered in class today:
-
 https://github.com/remarcmij/JavaScript1_examples/tree/master/week3
 
 
 * Homework for week 3. The JavaScript homework can be found under the header *More JavaScript* (you already did Step 4 from this repo last week).
-
 https://github.com/remarcmij/JavaScript1/blob/master/Week3/MAKEME.md#more-javascript-tada
 
 
-* Here is the recording for today: 29/04/18
-
+* Here is the recording for today Javascript: 29/04/18
 https://youtu.be/kt35INWXmRo
+
+
+* Here is the recording for today Git: 29/04/18
+https://www.youtube.com/watch?v=6zsAyzrg7d8
