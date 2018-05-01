@@ -9,3 +9,11 @@ https://github.com/remarcmij/JavaScript1_examples
 
 *Homework and readings for this week: 
 https://gist.github.com/remarcmij/fe6f1d15dddadad010390a17178e9106 
+
+here are the commands used by user to admin for future reference when we added a collaborator (admin and user),
+git clone ___repo link___
+git branch user-dev
+git checkout user-dev
+git add pets.txt
+git commit -m "added pets.txt"
+git push -u origin user-dev
