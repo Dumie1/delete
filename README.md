@@ -29,6 +29,7 @@
 <li>https://www.freecodecamp.org/map </li>
 <h3>Functions</h3>
 http://eloquentjavascript.net/03_functions.html
+<h3>Pure (deterministic) vs impure(non-deterministic) functions.</h3>                                               <li>https://youtu.be/dZ41D6LDSBg</li>
 
 
 
