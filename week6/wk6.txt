@@ -12,3 +12,7 @@ https://youtu.be/kt35INWXmRo
 
 * Here is the recording for today Git: 29/04/18
 https://www.youtube.com/watch?v=6zsAyzrg7d8
+
+
+* On 06 May 2018 will start JavaScript2 with @Tamim. We will learn how to combine html/css skills with JavaScript skills. Some readings to do before Sunday here:
+https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/README.md
