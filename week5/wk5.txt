@@ -10,6 +10,10 @@ https://github.com/remarcmij/JavaScript1_examples
 *Homework and readings for this week: 
 https://gist.github.com/remarcmij/fe6f1d15dddadad010390a17178e9106 
 
+* Javascript1 week2 Homework Feedback from teacher..  | Feedback homework week 2
+https://github.com/HackYourFuture/JavaScript2/pull/14
+
+
 here are the commands used by user to admin for future reference when we added a collaborator (admin and user),
 git clone ___repo link___
 git branch user-dev
