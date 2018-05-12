@@ -42,3 +42,5 @@ http://eloquentjavascript.net/03_functions.html
 <li>https://www.youtube.com/watch?v=BA_c3bGQXlQ </li>
 <h3>How we use Git Workflow to hand in Homework </h3>
 <li>•	https://www.youtube.com/watch?v= </li>
+<h3>GIT: Working with Branches</h3>
+<li>https://files.slack.com/files-pri/T0EJTUQ87-FAN6W83AM/vid-20180512-wa0004.mp4</li>
