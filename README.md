@@ -30,6 +30,10 @@
 <h3>Functions</h3>
 http://eloquentjavascript.net/03_functions.html
 <h3>Pure (deterministic) vs impure(non-deterministic) functions.</h3>                                               <li>https://youtu.be/dZ41D6LDSBg</li>
+<h3>Functional programming in Javascript: map, filter and reduce</h3>
+<li>http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/</li>
+<h3>JavaScript Higher Order Functions & Arrays Travesy Media</h3>
+<li>https://www.youtube.com/watch?v=rRgD1yVwIvE</li>
 
 
 
