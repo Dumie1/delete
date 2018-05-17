@@ -34,6 +34,8 @@ http://eloquentjavascript.net/03_functions.html
 <li>http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/</li>
 <h3>JavaScript Higher Order Functions & Arrays Travesy Media</h3>
 <li>https://www.youtube.com/watch?v=rRgD1yVwIvE</li>
+<h3>Functional Programming Basics In ES6</h3>
+<li>https://www.youtube.com/watch?v=FYXpOjwYzcs</li>
 
 
 
