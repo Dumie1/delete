@@ -9,3 +9,166 @@ https://github.com/HackYourFuture/JavaScript2/blob/master/Week2/README.md
 
 * Homework for JS week2:
 https://github.com/HackYourFuture/JavaScript2/blob/master/Week2/MAKEME.md
+
+
+('use strict');
+/*
+var numbers = [1, 2, 3, 4];
+
+var newNumbers = numbers.filter(function (number) {
+    return (number % 2 !== 0);
+}).map(function (number) {
+    return number * 2;
+});
+
+console.log("The doubled numbers are", newNumbers);*/ // [2, 6]
+
+//references
+//http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/
+
+/*
+const monday = [
+    {
+        name: 'Write a summary HTML/CSS',
+        duration: 180
+    },
+    {
+        name: 'Some web development',
+        duration: 120
+    },
+    {
+        name: 'Fix homework for class10',
+        duration: 20
+    },
+    {
+        name: 'Talk to a lot of people',
+        duration: 200
+    }
+];
+
+const tuesday = [
+    {
+        name: 'Keep writing summary',
+        duration: 240
+    },
+    {
+        name: 'Some more web development',
+        duration: 180
+    },
+    {
+        name: 'Staring out the window',
+        duration: 10
+    },
+    {
+        name: 'Talk to a lot of people',
+        duration: 200
+    },
+    {
+        name: 'Look at application assignments new students',
+        duration: 40
+    }
+];
+
+const tasks = monday.concat(tuesday);
+
+let tasksOver2HoursDuration = 0;
+for (let i = 0; i < tasks.length; i++) {
+    if (tasks[i].duration >= 120) {
+        tasksOver2HoursDuration += tasks[i].duration;
+    }
+}
+const workedMinutes = tasksOver2HoursDuration % 60;
+const workedHours = (tasksOver2HoursDuration - workedMinutes) / 60;
+tasksOver2HoursDuration /= 60;
+const euroPerHour = 16.00;
+const earned = tasksOver2HoursDuration * euroPerHour;
+console.log("Maartje has worked for " + workedHours + ":" + workedMinutes + " hours and has earned €" + earned.toFixed(2));
+
+*/
+// someone s solution below 
+
+const monday = [
+    {
+        name: 'Write a summary HTML/CSS',
+        duration: 180
+    },
+    {
+        name: 'Some web development',
+        duration: 120
+    },
+    {
+        name: 'Fix homework for class10',
+        duration: 20
+    },
+    {
+        name: 'Talk to a lot of people',
+        duration: 200
+    }
+];
+
+const tuesday = [
+    {
+        name: 'Keep writing summary',
+        duration: 240
+    },
+    {
+        name: 'Some more web development',
+        duration: 180
+    },
+    {
+        name: 'Staring out the window',
+        duration: 10
+    },
+    {
+        name: 'Talk to a lot of people',
+        duration: 200
+    },
+    {
+        name: 'Look at application assignments new students',
+        duration: 40
+    }
+];
+
+const tasks = monday.concat(tuesday);
+
+//Map the tasks to durations in hours---- just test ready for deleting.
+//const durationsInHours = tasks.map(function (tasks) {
+//  return tasks.duration / 60;
+//})
+//console.log(durationsInHours);
+
+//Map the tasks to durations in hours----final work below.
+const justTest = tasks.map(tasks => tasks.duration / 60);
+//console.log(justTest);
+
+
+
+//Filter out everything that took less than two hours.
+const tasksOverTwoHours = tasks.filter(tasks => (tasks.duration >= 120));
+
+//calculate total hours worked after filtering work which is less than 2 hours---  
+let totalWorkedHours = 0;
+
+for (let i = 0; i < tasksOverTwoHours.length; i++) {
+    totalWorkedHours += tasksOverTwoHours[i].duration / 60;
+}
+
+const hourlyRate = 36;
+
+const totalEarnings = totalWorkedHours * hourlyRate;
+console.log('Maartje has earned ' + '€' + totalEarnings.toFixed(2));
+
+/*
+const perHourSalary = 25;
+
+let totalWorkHours = 0;
+
+for (let i = 0; i < tasks.length; i++) {
+    if (tasks[i].duration >= 120) {
+        totalWorkHours += tasks[i].duration / 60;
+    }
+}
+
+const totalSalary = totalWorkHours * perHourSalary;
+console.log('Maartje has earned ' + '€' + totalSalary.toFixed(2));*/
+
