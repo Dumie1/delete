@@ -36,6 +36,8 @@ http://eloquentjavascript.net/03_functions.html
 <li>https://www.youtube.com/watch?v=rRgD1yVwIvE</li>
 <h3>Functional Programming Basics In ES6</h3>
 <li>https://www.youtube.com/watch?v=FYXpOjwYzcs</li>
+<h3>Javascript scope</h3>
+<li>https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/</li>
 
 
 
