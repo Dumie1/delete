@@ -44,6 +44,8 @@ http://eloquentjavascript.net/03_functions.html
 
 <h2>USEFULL LINKS - gitbash - github </h2>
 
+<h3>Basic git commands</h3>
+https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
 <h3>Git and GitHub for Poets playlist</h3>
 <li>•	https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV </li>
 <h3>Uploading files on github <h3>
