@@ -38,6 +38,8 @@ http://eloquentjavascript.net/03_functions.html
 <li>https://www.youtube.com/watch?v=FYXpOjwYzcs</li>
 <h3>Javascript scope</h3>
 <li>https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/</li>
+<h4>How To Use Array Methods in JavaScript: Iteration Methods </h3>
+https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
 
 
 
