@@ -4,8 +4,8 @@ https://github.com/HackYourFuture/JavaScript2/blob/master/Week3/MAKEME.md
 * Homework for week3 javascript2
 https://github.com/HackYourFuture/JavaScript2/tree/master/Week3
 
-* Class Recording javascript2 part 1 JavaScript 2 Week 03 PT 01
+* Class Recording javascript2 part 1 JavaScript 2 Week 03 PT 01  27May2018
 https://www.youtube.com/watch?v=rH9VC0Dm9DA&pbjreload=10
 
-* Class Recording javascript2 part 2 JavaScript 2 Week 03 PT 02
+* Class Recording javascript2 part 2 JavaScript 2 Week 03 PT 02  27May2018
 https://www.youtube.com/watch?v=Qv_NtdV88a0
