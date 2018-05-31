@@ -40,6 +40,8 @@ http://eloquentjavascript.net/03_functions.html
 <li>https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/</li>
 <h4>How To Use Array Methods in JavaScript: Iteration Methods </h3>
 https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
+<h3>Free codecamp solutions using reduce method</h3>
+https://medium.freecodecamp.org/reduce-f47a7da511a9
 
 
 
