@@ -42,6 +42,9 @@ http://eloquentjavascript.net/03_functions.html
 https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
 <h3>Free codecamp solutions using reduce method</h3>
 https://medium.freecodecamp.org/reduce-f47a7da511a9
+<h3>JSON and AJAX Tutorial: With Real Examples -: LearnWebCode
+</h3>
+https://www.youtube.com/watch?v=rJesac0_Ftw
 
 
 
