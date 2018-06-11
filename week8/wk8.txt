@@ -9,3 +9,103 @@ https://www.youtube.com/watch?v=rH9VC0Dm9DA&pbjreload=10
 
 * Class Recording javascript2 part 2 JavaScript 2 Week 03 PT 02  27May2018
 https://www.youtube.com/watch?v=Qv_NtdV88a0
+
+
+//=======================================================================
+
+// get all HYF repos and display in a drop-down menu
+// https://api.github.com/orgs/HackYourFuture/repos?per_page=100
+// when repo selected, display repo details
+// for EACH repo, GET and display contributors (contributors_url)
+/*
+const para = document.createElement("h1");
+const t = document.createTextNode("HYF Repositories :");
+para.appendChild(t);
+document.body.appendChild(para);
+*/
+
+
+const root = document.getElementById("root")
+const contributorsDiv = document.createElement("div")
+
+
+// 4 methods on xhr - open, onload, onerror, send
+
+let repoDetails = [] // name, cont. url { name: 'sss', cont.url: "sss"}
+
+
+function getRepos() {
+
+    const reposURL = "https://api.github.com/orgs/HackYourFuture/repos?per_page=100"
+
+    const xhr = new XMLHttpRequest()
+
+    xhr.open("GET", reposURL)
+
+    xhr.onload = function () {
+        if (xhr.status === 200) {
+            const repoData = JSON.parse(xhr.response)
+
+
+            repoDetails = repoData.map(repo => {
+                return { name: repo.name, contributorsURL: repo.contributors_url }
+            })
+
+            const div = document.createElement("div")
+            const select = document.createElement("select")
+            const defaultOption = `<option value="" selected disabled hidden>Choose repo</option>`
+            const repoOptions = repoDetails.map((repo, i) => `<option value=${i}>${repo.name}</option>`)
+            select.innerHTML = defaultOption + repoOptions
+            select.onchange = event => getContributors(event.target.value)
+            div.appendChild(select)
+            root.appendChild(div)
+
+
+            //=========================
+
+        }
+    }
+    xhr.onerror = function () {
+        console.error(xhr.statusText)
+    }
+
+    xhr.send()
+}
+
+
+
+function getContributors(index) {
+    contributorsDiv.innerHTML = ""
+    const contributorsURL = repoDetails[index].contributorsURL
+    const div = document.createElement("div")
+
+    const xhr = new XMLHttpRequest()
+
+    xhr.open("GET", contributorsURL, true)
+
+    xhr.onload = function () {
+        if (xhr.status === 200) {
+            const constributorsData = JSON.parse(xhr.response)
+
+            console.log(constributorsData)
+
+            const contributors = constributorsData.map(contributor => {
+                return `
+                    <p>${contributor.login}</p>
+                    <img src=${contributor.avatar_url}>
+                    `
+            })
+
+            div.innerHTML = contributors
+            contributorsDiv.appendChild(div)
+
+            root.appendChild(contributorsDiv)
+        }
+    }
+    xhr.onerror = function () {
+        console.error(request.statusText)
+    }
+    xhr.send()
+}
+
+getRepos()
