@@ -22,6 +22,8 @@
 
 <h2>USEFULL LINKS - javascript </h2>
 
+<h3>VSCode built-in Emmet support. cheatsheet</h3>
+https://docs.emmet.io/cheat-sheet/
 <h3>What is Javascript?  </h3>
 <li>https://www.youtube.com/watch?v=0ciwEXbkqB4</li>  <li>https://www.codecademy.com/learn/introduction-to-javascript</li>
 <li>https://www.learn-js.org/ </li>
