@@ -47,6 +47,8 @@ https://medium.freecodecamp.org/reduce-f47a7da511a9
 <h3>JSON and AJAX Tutorial: With Real Examples -: LearnWebCode
 </h3>
 https://www.youtube.com/watch?v=rJesac0_Ftw
+<h3>Read this article on scopes & closures:</h3>
+https://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
 
 
 
