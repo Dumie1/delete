@@ -1,0 +1,5 @@
+Week1 reading material
+https://github.com/HackYourFuture/Node.js/blob/master/week1/README.md
+week1 class recording
+part 1: https://youtu.be/AO3U2OsteHM and 
+part 2: https://youtu.be/xHBDUgeV148
