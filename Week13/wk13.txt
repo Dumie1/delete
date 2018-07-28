@@ -5,3 +5,6 @@ Class recording : 15/07/2018
 https://www.youtube.com/watch?v=Zhft661222A&feature=youtu.be
 https://www.youtube.com/watch?v=lp4UTl0RdkM&feature=youtu.be
 https://www.youtube.com/watch?v=wb8woRgDpeI&feature=youtu.be
+
+Create an Entity-Relation-Diagram (ERD)
+https://www.youtube.com/watch?v=9L0CMnDGuLg
