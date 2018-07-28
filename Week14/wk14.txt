@@ -1,0 +1,5 @@
+Reading material
+https://github.com/HackYourFuture/databases/tree/master/Week2
+
+Homework 
+https://github.com/HackYourFuture/databases/blob/master/Week2/MAKEME.md
