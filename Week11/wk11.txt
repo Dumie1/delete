@@ -2,7 +2,7 @@ Reading material
 
 https://github.com/HackYourFuture/Node.js/blob/master/week2/README.md
 
-Class recording 01/07/2018
+Class recording 01/july/2018
 
 part 1: https://youtu.be/3B92JH0jS1U https://youtu.be/UtsEifaqG40
 part 2: https://www.youtube.com/watch?v=UtsEifaqG40&feature=youtu.be
