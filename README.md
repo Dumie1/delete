@@ -56,6 +56,8 @@ https://gist.github.com/amysimmons/3d228a9a57e30ec13ab1
 https://javascript30.com/
 <h3></h3>
 https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99
+<h3></h3>
+http://4dev.tech/2017/12/how-to-load-a-json-file-in-reactjs/
 
 
 
