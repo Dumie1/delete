@@ -16,8 +16,7 @@
 <li>http://www.csszengarden.com/ https://daneden.github.io/animate.css/ </li>
 <h3>CSS Selectors - The Ultimate List </h3>
 <li>https://kolosek.com/css-selectors/ </li>
-<h3></h3>
-http://javascript.info/
+
 
 
 
@@ -67,6 +66,8 @@ http://4dev.tech/2017/12/how-to-load-a-json-file-in-reactjs/
 https://reactjs.org/docs/forms.html
 <h3></h3>
 https://reactjs.org/docs/forms.html
+<h3></h3>
+http://javascript.info/
 
 
 
