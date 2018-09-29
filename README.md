@@ -52,6 +52,8 @@ https://www.youtube.com/watch?v=rJesac0_Ftw
 https://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
 <h3>Understanding closures, callbacks and promises</h3>
 https://gist.github.com/amysimmons/3d228a9a57e30ec13ab1
+<h3></h3>
+https://javascript30.com/
 
 
 
