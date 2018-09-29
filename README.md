@@ -63,6 +63,10 @@ https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99
 http://4dev.tech/2017/12/how-to-load-a-json-file-in-reactjs/
 <h3></h3>
 http://4dev.tech/2017/12/how-to-load-a-json-file-in-reactjs/
+<h3></h3>
+https://reactjs.org/docs/forms.html
+<h3></h3>
+https://reactjs.org/docs/forms.html
 
 
 
