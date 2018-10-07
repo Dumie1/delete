@@ -1,7 +1,7 @@
 
 <h2>USEFULL lINKS - html - css</h2>
 
-<h3>You can find information (week by week) about the first session which is 3 weeks time focusing on HTML-CSS -:</h3>
+<h3> HTML-CSS -:</h3>
 <li>https://github.com/HackYourFuture/HTML-CSS </li>
 <h3>links can help you for the right format and indentation.-:</h3>
 <li>https://perishablepress.com/obsessive-css-code-formatting-indentation-and-spacing/</li>
