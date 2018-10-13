@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=pKd0Rpw7O48
 
 
 
-<h2>USEFULL LINKS - gitbash - github </h2>
+<h2>USEFULL LINKS gitbash github </h2>
 
 
 <h3>Basic git commands</h3>
